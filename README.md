@@ -17,15 +17,14 @@ the team will review the set of changes, discuss potential modifications, and ev
 
 ## The Process
 
-Below is an example of an employee of the month contributor.
-
 - Clone the project
 - Create an upstream remote and sync your local copy before you branch
-- Branch for each separate piece of work.
-- Do the work, write good commit messages, and read the CONTRIBUTING file if there is one.
-- Push to your origin repository.
-- Create a new PR in GitHub.
-- Respond to any code review feedback.
+- Branch for each separate piece of work
+- Do the work, write good commit messages
+- Push to origin repository
+- Create a pull request
+- Fix Hound violations (If any)
+- Respond to any code review feedback
 
 If any of the above concepts are new to you, refer to the [Github](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) documentation.
 
